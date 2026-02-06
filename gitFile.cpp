@@ -2,6 +2,7 @@
  using namespace std;
  int main ()
  {
-    cout << "Hi, I am Abdullah";
+    system("cls");
+    cout << "Hi, I am Abdullah, Iam doing BSCS from FAST. ";
     return 0;
  }
